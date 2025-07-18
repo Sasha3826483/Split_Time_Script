@@ -6,6 +6,8 @@ from PIL import Image, ImageDraw, ImageFont
 import pytesseract
 import shutil
 
+# Комментарий для третьей ветки
+
 # === Настройки путей и Tesseract ===
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 today_str = datetime.date.today().strftime("%d.%m.%Y")
