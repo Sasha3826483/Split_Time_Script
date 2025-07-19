@@ -9,6 +9,7 @@ import shutil
 # тест новой ветки гита
 # Еще один комментарий для теста новой ветки
 # Тестовый коммент для ветки 2
+# Текстовый коммент для нового коммита
 
 # === Настройки путей и Tesseract ===
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
